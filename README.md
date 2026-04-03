@@ -1,0 +1,1 @@
+# ghost-blog-freeze-github-com
